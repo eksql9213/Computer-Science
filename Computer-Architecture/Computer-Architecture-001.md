@@ -21,7 +21,7 @@ git 주소 : 해당 주제 TIL 주소
 
 ### ❓ 컴퓨터 구조
 
-![](attachment:defbecad-6192-46f4-ab12-46498232c024:510e7b73-2316-4ac9-8467-0b983a00d9a3.png)
+![Image](https://github.com/user-attachments/assets/70570b35-b3af-40c4-9b49-a6de4801704c)
 
 - 컴퓨터가 이해하는 정보
     - 데이터
